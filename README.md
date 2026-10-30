@@ -17,7 +17,9 @@ This repository was created for university practice.
 - Added project description
 - Updated README.md
 
-## Collaboration
-This repository supports collaborative development.
-Other users can contribute to this project.
+## Collaborator Contribution
 
+- Contributor: Student 2
+- Editor: Visual Studio Code
+- Contribution: Updated README.md
+- Status: Completed
