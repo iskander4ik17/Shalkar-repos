@@ -1,0 +1,2 @@
+# Shalkar-repos
+для ИКТ 
